@@ -1,12 +1,12 @@
 {
   "background_color": "#ffffff",
-  "description": "CNC Web Simulator",
+  "description": "CNC Software Web APP",
   "dir": "ltr",
   "display": "standalone",
-  "name": "CNC Web Simulator",
+  "name": "CNC Web Simulator PRO",
   "orientation": "any",
   "scope": "/",
-  "short_name": "CNC Web Simulator",
+  "short_name": "CNC Web Simulator PRO",
   "start_url": "/",
   "theme_color": "#ffffff",
   "categories": [
@@ -48,7 +48,7 @@
   ],
   "shortcuts": [
     {
-      "name": "CNC Web Simulator",
+      "name": "CNC Web Simulator PRO",
       "url": "",
       "description": ""
     }
